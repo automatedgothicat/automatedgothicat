@@ -1,4 +1,16 @@
 # Carlos Henrique, 19
 Computer engineering student at UFGD, learning new things everyday
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=automatedgothicat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=automatedgothicat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 [![automatedgothicat GitHub Stats](https://github-readme-stats.vercel.app/api?username=automatedgothicat&show_icons=true&theme=dark&count_private=true)](https://github.com/automatedgothicat/github-readme-stats)|
+
+###
+
+<img src="https://raw.githubusercontent.com/automatedgothicat/automatedgothicat/output/snake.svg" alt="Snake animation" />
